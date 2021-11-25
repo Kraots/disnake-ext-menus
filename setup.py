@@ -10,7 +10,7 @@ setup(
     name='disnake-ext-menus',
     author='Rapptz, Kraots',
     url='https://github.com/Kraots/disnake-ext-menus',
-    version='0.0.1',
+    version='0.0.3',
     packages=['disnake.ext.menus'],
     description='An extension module to make reaction based menus with disnake',
     long_description=README,
