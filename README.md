@@ -2,14 +2,10 @@
 
 An experimental extension menu that makes working with reaction menus a bit easier.
 
-**There are no front-facing docs for this and it's not on PyPI. As this is meant to be a repository for testing**
-
 ## Installing
 
-Installing is done purely via git:
-
 ```py
-python -m pip install -U git+https://github.com/Kraots/disnake-ext-menus
+python -m pip install -U disnake-ext-menus
 ```
 
 ## Getting Started
